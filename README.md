@@ -45,7 +45,7 @@ Version Control	Git + GitHub
 
 Clone this repository
 
-git clone https://github.com/<Hanan20>/AI_Coding_Agent.git
+https://github.com/Hanan20/AI_Coding_Agent.git
 cd aiagent
 
 
